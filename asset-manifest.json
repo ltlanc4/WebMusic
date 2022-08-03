@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebMusic/static/css/main.7e75b333.css",
+    "main.js": "/WebMusic/static/js/main.2062a56b.js",
+    "static/media/bootstrap-icons.woff?": "/WebMusic/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/WebMusic/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/Spotify_logo_without_text.svg.png": "/WebMusic/static/media/Spotify_logo_without_text.svg.6b01cd3da438df0ac6eb.png",
+    "index.html": "/WebMusic/index.html",
+    "main.7e75b333.css.map": "/WebMusic/static/css/main.7e75b333.css.map",
+    "main.2062a56b.js.map": "/WebMusic/static/js/main.2062a56b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e75b333.css",
+    "static/js/main.2062a56b.js"
+  ]
+}
