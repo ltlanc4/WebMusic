@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from './picture/Spotify_logo_without_text.svg.png';
 
 const CLIENT_ID = "a6198c492eb94ba49a698075e6d4b604";
-const REDIRECT_URI = "http://localhost:3000";
+const REDIRECT_URI = "https://ltlanc4.github.io/WebMusic/";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize?";
 const RESPONSE_TYPE = "code";
 const SCOPES = ["user-read-playback-state", "user-library-read", "user-library-modify", "streaming", "user-modify-playback-state", "playlist-read-collaborative",
